@@ -984,7 +984,8 @@ label {
   }
 
   .div-block-8 {
-    padding-top: 5vh;
+    height: auto;
+    padding-top: 7vh;
     padding-bottom: 5vh;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
